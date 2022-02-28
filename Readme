@@ -1,8 +1,21 @@
 Primer Commit
 Primera Modificacion
 
+<<<<<<< HEAD
 # Segunda modificación de Edier Hernandez
 
 <h1>
 	Hello world desde la Rama de Edier
+=======
+# Segunda modificación de Edier
+Tercera Modificacion despues de eddier
+Cuarto COMMIT 
+
+## Quinto commit, luego de Ruben
+
+### :)
+
+<h1>
+	Hello world
+>>>>>>> 8859b9da4dd467d0121aa6b217c9205f6e0f3e44
 </h1>
